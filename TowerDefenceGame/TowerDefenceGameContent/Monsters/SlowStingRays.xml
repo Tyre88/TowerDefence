@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Monster">
+    <Name>Stingray</Name>
+    <Description>This is a level 1 stingray.</Description>
+    <Animate>false</Animate>
+    <Rotate>true</Rotate>
+    <Alpha>1.0</Alpha>
+    <Speed>60</Speed>
+    <Health>75</Health>
+    <TextureAsset>StingRay</TextureAsset>
+    <HitTextureAsset>StingRay</HitTextureAsset>
+    <HitQueName>Hit</HitQueName>
+    <IsBoss>false</IsBoss>
+  </Asset>
+</XnaContent>

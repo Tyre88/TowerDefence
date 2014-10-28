@@ -1,0 +1,12 @@
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorial\bin\x86\Debug\TD-tutorial.exe
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorial\bin\x86\Debug\TD-tutorial.pdb
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\TD-tutorial.exe
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\TD-tutorial.pdb
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorial\bin\x86\Debug\TD-tutorial.exe
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorial\bin\x86\Debug\TD-tutorial.pdb
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\TD-tutorial.exe
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorial\obj\x86\Debug\TD-tutorial.pdb

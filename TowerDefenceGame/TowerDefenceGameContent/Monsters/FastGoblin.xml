@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Monster">
+    <Name>Goblin</Name>
+    <Description>This is a level 1 goblin.</Description>
+    <AnimationTime>150</AnimationTime>
+    <Animate>true</Animate>
+    <Rotate>false</Rotate>
+    <NFrames>4 5</NFrames>
+    <SFrames>6 7</SFrames>
+    <EFrames>2 3</EFrames>
+    <WFrames>0 1</WFrames>
+    <Alpha>1.0</Alpha>
+    <Speed>90</Speed>
+    <Health>200</Health>
+    <TextureAsset>Goblin</TextureAsset>
+    <HitTextureAsset>Goblin</HitTextureAsset>
+    <HitQueName>Hit</HitQueName>
+    <IsBoss>false</IsBoss>
+  </Asset>
+</XnaContent>

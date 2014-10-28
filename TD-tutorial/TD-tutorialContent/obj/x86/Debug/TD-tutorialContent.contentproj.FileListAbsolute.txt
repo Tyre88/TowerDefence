@@ -1,0 +1,2 @@
+c:\users\victor\documents\visual studio 2010\Projects\TD-tutorial\TD-tutorial\TD-tutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\TD-tutorial\TD-tutorial\TD-tutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache

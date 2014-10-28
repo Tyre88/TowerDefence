@@ -1,0 +1,6 @@
+D:\Projects\TD-tutorial\TowerDefence\TowerDefence\bin\x86\Debug\TowerDefence.exe
+D:\Projects\TD-tutorial\TowerDefence\TowerDefence\bin\x86\Debug\TowerDefence.pdb
+D:\Projects\TD-tutorial\TowerDefence\TowerDefence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\TD-tutorial\TowerDefence\TowerDefence\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\TD-tutorial\TowerDefence\TowerDefence\obj\x86\Debug\TowerDefence.exe
+D:\Projects\TD-tutorial\TowerDefence\TowerDefence\obj\x86\Debug\TowerDefence.pdb

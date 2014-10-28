@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Monster">
+    <Name>Skeleton</Name>
+    <Description>This is a level 1 skeleton.</Description>
+    <AnimationTime>150</AnimationTime>
+    <Animate>true</Animate>
+    <Rotate>false</Rotate>
+    <NFrames>9 11</NFrames>
+    <SFrames>0 2</SFrames>
+    <EFrames>6 8</EFrames>
+    <WFrames>3 5</WFrames>
+    <Alpha>1.0</Alpha>
+    <Speed>90</Speed>
+    <Health>200</Health>
+    <TextureAsset>Skeleton</TextureAsset>
+    <HitTextureAsset>Skeleton</HitTextureAsset>
+    <HitQueName>Hit</HitQueName>
+    <IsBoss>false</IsBoss>
+  </Asset>
+</XnaContent>

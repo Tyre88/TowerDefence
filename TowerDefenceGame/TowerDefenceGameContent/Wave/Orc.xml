@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Wave">
+    <MonsterAsset>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+      <Item>SlowOrc</Item>
+    </MonsterAsset>
+    <Title>25 Orcs</Title>
+    <BossWave>false</BossWave>
+    <SpawnTimer>1</SpawnTimer>
+    <MoneyPerKill>12</MoneyPerKill>
+    <BossMoneyScalar>2.0</BossMoneyScalar>
+  </Asset>
+</XnaContent>

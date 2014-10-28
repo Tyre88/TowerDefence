@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Bullet">
+    <Type>Normal</Type>
+    <AoERadius>0</AoERadius>
+    <DoTDamagePercentage>0</DoTDamagePercentage>
+    <DoTTime>0</DoTTime>
+    <TextureAsset>pebble</TextureAsset>
+    <ParticleAsset>pebble_particle</ParticleAsset>
+    <Speed>100</Speed>
+    <DieTime>10</DieTime>
+    <ParticleTimer>0.4</ParticleTimer>
+    <ParticleBirthRate>3</ParticleBirthRate>
+  </Asset>
+</XnaContent>

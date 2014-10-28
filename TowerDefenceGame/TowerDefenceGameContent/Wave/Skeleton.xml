@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Wave">
+    <MonsterAsset>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+      <Item>Skeleton</Item>
+    </MonsterAsset>
+    <Title>25 Skeletons</Title>
+    <BossWave>false</BossWave>
+    <SpawnTimer>1</SpawnTimer>
+    <MoneyPerKill>5</MoneyPerKill>
+    <BossMoneyScalar>2.0</BossMoneyScalar>
+  </Asset>
+</XnaContent>

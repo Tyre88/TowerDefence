@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Monster">
+    <Name>Ant</Name>
+    <Description>This is a level 1 ant.</Description>
+    <Animate>true</Animate>
+    <Rotate>true</Rotate>
+    <Alpha>1.0</Alpha>
+    <Speed>50</Speed>
+    <Health>30</Health>
+    <TextureAsset>Ant</TextureAsset>
+    <HitTextureAsset>Ant</HitTextureAsset>
+    <HitQueName>Hit</HitQueName>
+    <IsBoss>false</IsBoss>
+  </Asset>
+</XnaContent>

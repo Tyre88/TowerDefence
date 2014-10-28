@@ -1,0 +1,2 @@
+D:\Projects\TD-tutorial\TowerDefenceGame\TowerDefenceGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Dropbox\utveckling\TD-tutorial\TowerDefenceGame\TowerDefenceGameContent\obj\x86\Debug\TowerDefenceGameContent.contentprojResolveAssemblyReference.cache

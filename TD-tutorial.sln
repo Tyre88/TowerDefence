@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD-Engine", "TD-Engine\TD-Engine.csproj", "{87759364-F06B-41F2-8903-13ABF07CA77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefenceGame", "TowerDefenceGame\TowerDefenceGame\TowerDefenceGame.csproj", "{3C186E72-F03B-4AC1-896E-0AB8CFB59D9A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TowerDefenceGameContent", "TowerDefenceGame\TowerDefenceGameContent\TowerDefenceGameContent.contentproj", "{C365E754-C937-444A-ACB4-A13A544D71F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87759364-F06B-41F2-8903-13ABF07CA77A}.Debug|x86.ActiveCfg = Debug|x86
+		{87759364-F06B-41F2-8903-13ABF07CA77A}.Debug|x86.Build.0 = Debug|x86
+		{87759364-F06B-41F2-8903-13ABF07CA77A}.Release|x86.ActiveCfg = Release|x86
+		{87759364-F06B-41F2-8903-13ABF07CA77A}.Release|x86.Build.0 = Release|x86
+		{3C186E72-F03B-4AC1-896E-0AB8CFB59D9A}.Debug|x86.ActiveCfg = Debug|x86
+		{3C186E72-F03B-4AC1-896E-0AB8CFB59D9A}.Debug|x86.Build.0 = Debug|x86
+		{3C186E72-F03B-4AC1-896E-0AB8CFB59D9A}.Release|x86.ActiveCfg = Release|x86
+		{3C186E72-F03B-4AC1-896E-0AB8CFB59D9A}.Release|x86.Build.0 = Release|x86
+		{C365E754-C937-444A-ACB4-A13A544D71F4}.Debug|x86.ActiveCfg = Debug|x86
+		{C365E754-C937-444A-ACB4-A13A544D71F4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

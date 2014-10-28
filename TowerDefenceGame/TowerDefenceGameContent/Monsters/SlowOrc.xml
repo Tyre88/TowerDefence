@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Monster">
+    <Name>Orc</Name>
+    <Description>This is a level 1 orc.</Description>
+    <Animate>false</Animate>
+    <Rotate>false</Rotate>
+    <Alpha>1.0</Alpha>
+    <Speed>45</Speed>
+    <Health>150</Health>
+    <TextureAsset>Orc</TextureAsset>
+    <HitTextureAsset>Orc</HitTextureAsset>
+    <HitQueName>Hit</HitQueName>
+    <IsBoss>false</IsBoss>
+  </Asset>
+</XnaContent>

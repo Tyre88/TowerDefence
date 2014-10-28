@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Map">
+    <Name>Woodland</Name>
+    <Dimensions>30 22</Dimensions>
+    <TileDimensions>32 32</TileDimensions>
+    <Description>This is woodland</Description>
+    <ThumbnailAsset>thumbnail</ThumbnailAsset>
+    <TileSheetAsset>Woodland</TileSheetAsset>
+    <GroundTiles>
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 70 71 72 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 86 87 88 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 86 87 88 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 86 87 88 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 102 103 104 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+    </GroundTiles>
+    <FrontTiles>
+      1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0
+      2 2 2 2 2 2 3 0 0 0 0 0 0 0 0 4 5 6 0 0 0 0 0 0 0 0 18 0 0 0
+      1 1 1 1 0 0 18 0 0 0 0 0 0 0 0 20 21 22 0 0 0 0 0 0 0 0 18 0 0 0
+      1 1 1 0 0 0 18 0 0 0 0 0 0 0 0 0 37 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 53 0 0 0 0 0 0 0 0 117 18 117 0 0
+      0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 35 2 2 2 2 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 18 14 13 0 0 0 0 0 0 133 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 51 2 2 2 2 2 2 2 239 239 239 2 2 2 2 3 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 29 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 29 30 18 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 51 2 2 2 2 2 2 2 2 2 19 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    </FrontTiles>
+    <PathTiles>
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    </PathTiles>
+    <SpawnLocation>0 1</SpawnLocation>
+    <SpawnAssetName>house</SpawnAssetName>
+    <CastleLocation>26 0</CastleLocation>
+    <CastleAssetName>goal</CastleAssetName>
+    <Endless>false</Endless>
+    <TowersAvalible>
+      <Item>ArrowTower</Item>
+    </TowersAvalible>
+    <WavesAvalible>
+      <Item>Skeleton</Item>
+      <Item>Ant</Item>
+      <Item>StingRay</Item>
+      <Item>Orc</Item>
+      <Item>Goblin</Item>
+      <Item>Ogre</Item>
+    </WavesAvalible>
+    <WaveDelay>10</WaveDelay>
+    <Dificulty>2</Dificulty>
+    <Money>100</Money>
+    <ForeColorArray>124 189 70 255</ForeColorArray>
+    <ErrorColorArray>255 0 0 255</ErrorColorArray>
+    <InfoBarBackgroundAsset>infobar_bg</InfoBarBackgroundAsset>
+    <BorderColorArray>90 130 55 255</BorderColorArray>
+    <BorderColorAsset>border</BorderColorAsset>
+    <MouseTextureAsset>mouse</MouseTextureAsset>
+    <SmallErrorButtonTextureAsset>button_sm_error</SmallErrorButtonTextureAsset>
+    <SmallNormalButtonTextureAsset>button_sm_normal</SmallNormalButtonTextureAsset>
+    <LargeErrorButtonTextureAsset>button_lg_error</LargeErrorButtonTextureAsset>
+    <LargeNormalButtonTextureAsset>button_lg_normal</LargeNormalButtonTextureAsset>
+    <SongCueName></SongCueName>
+  </Asset>
+</XnaContent>

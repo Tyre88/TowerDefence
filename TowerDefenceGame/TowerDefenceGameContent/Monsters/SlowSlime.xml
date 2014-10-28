@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Monster">
+    <Name>Slime</Name>
+    <Description>This is a level 1 slime.</Description>
+    <Animate>false</Animate>
+    <Rotate>true</Rotate>
+    <Alpha>1.0</Alpha>
+    <Speed>50</Speed>
+    <Health>45</Health>
+    <TextureAsset>Slime</TextureAsset>
+    <HitTextureAsset>Slime</HitTextureAsset>
+    <HitQueName>Hit</HitQueName>
+    <IsBoss>false</IsBoss>
+  </Asset>
+</XnaContent>

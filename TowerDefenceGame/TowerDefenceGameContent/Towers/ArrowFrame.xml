@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Tower">
+    <Name>Arrow tower</Name>
+    <Description></Description>
+    <ThumbNailAsset>ArrowFrame</ThumbNailAsset>
+    <TextureAsset>ArrowFrame</TextureAsset>
+    <RadiusTextureAsset>radius</RadiusTextureAsset>
+    <Cost>50</Cost>
+    <Level>1</Level>
+    <MaxLevel>4</MaxLevel>
+    <InitialStatistics>
+      <Health>50</Health>
+      <Damage>15</Damage>
+      <AttackSpeed>1.4</AttackSpeed>
+      <Accuracy>100</Accuracy>
+      <CritChance>1.0</CritChance>
+      <CritScalar>2.0</CritScalar>
+      <Radius>6</Radius>
+    </InitialStatistics>
+    <UpgradeStatistics>
+      <HealthIncrease>25</HealthIncrease>
+      <DamageIncrease>13</DamageIncrease>
+      <AttackSpeedIncrease>0.1</AttackSpeedIncrease>
+      <AccuracyIncrease>10</AccuracyIncrease>
+      <CritChanceIncrease>4.0</CritChanceIncrease>
+      <CritScalarIncrease>0</CritScalarIncrease>
+      <RadiusIncrease>0.5</RadiusIncrease>
+    </UpgradeStatistics>
+    <BulletAsset>Arrow</BulletAsset>
+    <SellScaler>0.5</SellScaler>
+    <Scale>1</Scale>
+  </Asset>
+</XnaContent>

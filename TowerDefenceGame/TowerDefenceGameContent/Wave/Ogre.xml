@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TD_Engine.Wave">
+    <MonsterAsset>
+      <Item>OgreBoss</Item>
+      <Item>OgreBoss</Item>
+      <Item>OgreBoss</Item>
+      <Item>OgreBoss</Item>
+      <Item>OgreBoss</Item>
+    </MonsterAsset>
+    <Title>5 Ogre bosses</Title>
+    <BossWave>true</BossWave>
+    <SpawnTimer>5</SpawnTimer>
+    <MoneyPerKill>20</MoneyPerKill>
+    <BossMoneyScalar>2.0</BossMoneyScalar>
+  </Asset>
+</XnaContent>
